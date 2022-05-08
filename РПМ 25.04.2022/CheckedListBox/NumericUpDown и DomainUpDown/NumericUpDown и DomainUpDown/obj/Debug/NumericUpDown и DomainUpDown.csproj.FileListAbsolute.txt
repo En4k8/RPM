@@ -1,0 +1,10 @@
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown и DomainUpDown.csproj.AssemblyReference.cache
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown_и_DomainUpDown.Form1.resources
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown_и_DomainUpDown.Properties.Resources.resources
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown и DomainUpDown.csproj.GenerateResource.cache
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown и DomainUpDown.csproj.CoreCompileInputs.cache
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\bin\Debug\NumericUpDown и DomainUpDown.exe.config
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\bin\Debug\NumericUpDown и DomainUpDown.exe
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\bin\Debug\NumericUpDown и DomainUpDown.pdb
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown и DomainUpDown.exe
+C:\Users\En4k_8\source\repos\NumericUpDown и DomainUpDown\NumericUpDown и DomainUpDown\obj\Debug\NumericUpDown и DomainUpDown.pdb
